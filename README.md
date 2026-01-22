@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building automation systems
@@ -65,6 +63,4 @@ My career has allowed me to contribute to a range of impactful projects:
 
 I'm always open to discussing new opportunities, collaborations, or just sharing insights on automation and control systems. Feel free to reach out!
 
----
-- ⚡ Fun fact: ...
--->
+
